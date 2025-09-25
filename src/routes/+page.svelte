@@ -25,60 +25,66 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="Plasmatic transforms complex plasma physics simulations into real-time insights for semiconductor manufacturers and hardware companies. Our GPU-accelerated computing platform replaces weeks of manual testing with instant process optimization, helping manufacturing engineers achieve production-ready results faster than ever. By combining deep plasma physics expertise with adaptive algorithms, we're making plasma process control accessible and actionable for the $74B semiconductor equipment market."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Dr. Keiko Tanaka",
+			position: "Manufacturing Engineer",
+			company: "NanoTech Semiconductors",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Plasmatic reduced our plasma process optimization time from 3 weeks to 2 days.\nOur defect rates dropped by 47% and we saved $2.3M in production downtime last quarter.",
+			image: "/generated/image-a-professional-asian-woman-engineer-stan.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Miguel Rodriguez",
+			position: "Process Development Director",
+			company: "Precision Manufacturing",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The real-time insights eliminated 90% of our trial-and-error testing.\nWe achieved production scaling 6x faster while maintaining strict quality standards.",
+			image: "/generated/image-a-confident-hispanic-man-in-business-att.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Dr. Amara Williams",
+			position: "Senior Process Engineer",
+			company: "Advanced Fabrication",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Our plasma chamber utilization improved by 65% with predictive optimization.\nThe adaptive algorithms saved us $1.8M in equipment costs by maximizing existing infrastructure.",
+			image: "/generated/image-a-professional-black-woman-in-a-semicond.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Advanced plasma simulation technology"
+	subtitle="Transform weeks of manual testing into minutes of intelligent optimization with our GPU-accelerated platform"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Real-time simulation engine",
+			description: "Get instant feedback on plasma behavior changes instead of waiting days for traditional simulations to complete, enabling rapid iteration and optimization."
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Adaptive mesh refinement",
+			description: "Automatically focus computational power on critical plasma regions for 10x more accurate results without sacrificing simulation speed."
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Process optimization algorithms",
+			description: "AI-driven parameter recommendations reduce failed production runs by 85% while optimizing for your specific quality targets."
+		},
+		{
+			title: "GPU-accelerated computing",
+			description: "Harness parallel processing power to run complex plasma physics calculations that scale seamlessly from lab bench to 500+ fab installations."
+		},
+		{
+			title: "Predictive quality control",
+			description: "Identify potential process failures before they happen, preventing costly rework and maintaining consistent production standards."
+		},
+		{
+			title: "Production-ready deployment",
+			description: "Deploy directly into your existing manufacturing workflow with enterprise-grade reliability and real-time process control integration."
 		}
 	]}
 />
