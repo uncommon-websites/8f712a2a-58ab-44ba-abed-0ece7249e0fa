@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-09-28T00:35:58.365Z -->
+<!-- Updated: 2025-09-28T00:40:31.648Z -->
 
 # Current Todo List State
 
@@ -21,3 +21,7 @@
 - [x] Design and implement the about hero with proper brand styling
 - [x] Test responsive behavior and visual hierarchy
 - [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values
+- [x] Remove both team and investor StakeholderGrid sections from about page since no real team/investor info is available
+- [x] Remove generating props from remaining components on about page
+- [x] Verify the page flows well without the stakeholder sections
+- [x] Run comprehensive error check to ensure clean implementation
