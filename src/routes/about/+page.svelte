@@ -26,10 +26,9 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Plasma precision, in real time"
+	subtitle="Physics-driven control for faster scaling"
+	imageSrc="/generated/image-a-group-of-professionals-working-togethe.webp"
 />
 
 <!-- Story Section -->
